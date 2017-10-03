@@ -6,6 +6,11 @@
     font-family: "Open Sans Condensed", sans-serif;
     font-weight: normal;
     color: #555555;
+    background:
+        url(../images/T_Logo_3c_p_DE.png)
+           3% 97%              //  x/y positions
+         / 4% 4%              //  x/y sizes
+           no-repeat;
 
     strong {
       color: black;
@@ -41,15 +46,15 @@
     }
 
     h1 {
-        font-size: 5em;
+        font-size: 4em;
     }
 
     h2 {
-        font-size: 3em;
+        font-size: 2.5em;
     }
 
     h3 {
-        font-size: 1.5em;
+        font-size: 1.3em;
     }
 
     h1, h2 {

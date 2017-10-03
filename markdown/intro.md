@@ -1,3 +1,8 @@
-# Intro title
+## Cloud
+and
+## Telco
+(Buzzwords)
 
-Note: Add introductory slides here.
+[`Danny Al-Gaaf`](mailto:danny.al-gaaf@telekom.de)
+
+Deutsche Telekom Technik GmbH, FMED-22
